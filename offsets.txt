@@ -12,6 +12,6 @@ GameState = 0x158;
 ComponetToWorld = 0x240;
 ActorCount = 0xA0;
 AActor = 0x98;
-CurrentActor = "updating";
+CurrentActor = updating
 RootComponet = 0x190;
 PersistentLevel = 0x30;
